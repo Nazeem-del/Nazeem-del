@@ -1,4 +1,4 @@
- Kotha Thirumal Reddy — AI Engineer | Generative AI | Agentic AI | RAG | LLMOps
+ Nazeem Basha Shaik — AI Engineer | Generative AI | Agentic AI | RAG | LLMOps
 🚀 Building Production-Grade AI Systems with Generative AI, Agentic Workflows & Enterprise RAG Pipelines
 
     

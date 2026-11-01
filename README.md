@@ -1,10 +1,10 @@
- Nazeem Basha Shaik — AI Engineer | Generative AI | Agentic AI | RAG | LLMOps
+ Kotha Thirumal Reddy — AI Engineer | Generative AI | Agentic AI | RAG | LLMOps
 🚀 Building Production-Grade AI Systems with Generative AI, Agentic Workflows & Enterprise RAG Pipelines
 
     
 
 👨‍💻 About Me
-I am an AI Engineer / Data Scientist with 4+ years of experience building production-grade Generative AI, Agentic AI, RAG, NLP, and ML systems for enterprise applications.
+I am an AI Engineer / Data Scientist with 3+ years of experience building production-grade Generative AI, Agentic AI, RAG, NLP, and ML systems for enterprise applications.
 
 My expertise includes:
 
@@ -37,8 +37,8 @@ FAISS Pinecone ChromaDB OpenSearch
 AWS Docker Kubernetes Jenkins
 
 💼 Professional Experience
-🚀 AI Engineer — Cognizant
-📍 Hyderabad, India | June 2024 – Present
+🚀 AI Engineer — SmartBeings Software Innovations (SmartersCP)
+📍 Bangalore, India | Dec 2024 – Present
 
 Key Contributions
 Designed and developed AI-powered chatbot and RAG applications using LangChain, OpenAI, FastAPI, and vector databases.
@@ -51,8 +51,8 @@ Integrated conversational memory, prompt engineering, and intelligent retrieval 
 
 Optimized monitoring, logging, and latency management mechanisms for reliable production-grade AI performance.
 
-📊 Data Analyst — Cognizant
-📍 Hyderabad, India | May 2022 – June 2024
+📊 Data Analyst — SmartBeings Software Innovations
+📍 Bangalore, India | Feb 2023 – Dec 2024
 
 Key Contributions
 Developed ETL pipelines and automated reporting workflows for large-scale operational datasets.

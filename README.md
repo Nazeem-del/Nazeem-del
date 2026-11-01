@@ -3,8 +3,12 @@ Nazeem Basha Shaik — AI Engineer | Generative AI | Agentic AI | RAG | LLMOps
 
 👨‍💻 About Me
 I am an AI Engineer / Data Scientist with 3+ years of experience building production-grade Generative AI, Agentic AI, RAG, NLP, and ML systems for enterprise applications.
+
+
 My expertise includes:
 ✅ Generative AI & LLM Applications ✅ Retrieval-Augmented Generation (RAG) ✅ Agentic AI & Multi-Agent Systems ✅ Voice Agents & Conversational AI ✅ FastAPI Microservices ✅ Semantic Search & Vector Databases ✅ Cloud-Native AI Deployments
+
+
 I specialize in building scalable AI platforms using:
 LangChain & LangGraph
 OpenAI APIs & Hugging Face
@@ -13,17 +17,22 @@ FAISS, Pinecone & ChromaDB
 PostgreSQL & OpenSearch
 AWS & GCP Cloud Infrastructure
 Docker, Kubernetes & CI/CD Pipelines
+
 Currently working on:
 🧠 Enterprise AI Business Copilot Systems 🤖 Multi-Agent AI Platforms 📄 Intelligent Document Processing Systems 🔍 Hybrid RAG & Semantic Retrieval Pipelines 🎙 AI Voice Agent Applications ⚡ Scalable AI Infrastructure & LLMOps
+
 🛠 Tech Stack
 🤖 Generative AI & Agentic Systems
 LangChain LangGraph OpenAI HuggingFace RAG LLMOps
+
 ⚡ Backend & APIs
 Python FastAPI Flask REST API
 🗄 Vector Databases & Search
 FAISS Pinecone ChromaDB OpenSearch
+
 ☁ Cloud & DevOps
 AWS Docker Kubernetes Jenkins
+
 💼 Professional Experience
 🚀 AI Engineer — Cognizant
 📍 Hyderabad, India | Jun 2024 – Present
@@ -33,6 +42,7 @@ Built semantic search, embedding, and document ingestion pipelines to improve re
 Developed scalable chatbot APIs and AI microservices deployed on AWS/GCP using Docker and Jenkins CI/CD pipelines.
 Integrated conversational memory, prompt engineering, and intelligent retrieval workflows for multi-turn interactions.
 Optimized monitoring, logging, and latency management mechanisms for reliable production-grade AI performance.
+
 📊 Data Analyst — SmartBeings Software Innovations
 📍 Hyderabad, India | May 2022 – Jun 2024
 Key Contributions
@@ -41,6 +51,7 @@ Performed SQL-based analytics, anomaly detection, and validation checks while ma
 Built dashboards and reporting systems to generate actionable business insights and operational intelligence.
 Collaborated with AI and engineering teams to integrate machine learning outputs into enterprise analytical workflows.
 Automated recurring reporting processes reducing manual operational effort significantly.
+
 🚀 Featured Projects
 🧠 Enterprise Agentic AI Business Copilot
 Tech Stack
@@ -77,9 +88,11 @@ Advanced AI Orchestration
 AI Observability
 Distributed AI Systems
 Enterprise AI Security
+
 🌐 Connect With Me
-LinkedIn
-GitHub
+LinkedIn GitHub
+
 🏆 Strengths
 ✨ Generative AI Applications ✨ Enterprise RAG Systems ✨ Agentic AI Workflows ✨ Conversational AI & Voice Agents ✨ FastAPI Microservices ✨ AI Infrastructure & LLMOps ✨ Cloud-Native AI Systems
+
 ⭐ Building Scalable Enterprise AI Systems

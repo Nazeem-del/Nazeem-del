@@ -1,106 +1,119 @@
-👋 Hi, I'm Nazeem Basha Shaik
+ Nazeem Basha Shaik — AI Engineer | Generative AI | Agentic AI | RAG | LLMOps
+🚀 Building Production-Grade AI Systems with Generative AI, Agentic Workflows & Enterprise RAG Pipelines
 
-AI Engineer | Generative AI | Agentic AI | RAG | LLMOps
-🚀 Building Intelligent Enterprise AI Solutions with Generative AI, Agentic Workflows & RAG Pipelines
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=AI+Engineer;Generative+AI+Developer;Agentic+AI+Enthusiast;RAG+%7C+LangChain+%7C+LLMOps" />
-
-!Focus !Agentic AI !RAG !Cloud !Backend
-
-</div>
+    
 
 👨‍💻 About Me
+I am an AI Engineer / Data Scientist with 4+ years of experience building production-grade Generative AI, Agentic AI, RAG, NLP, and ML systems for enterprise applications.
 
-I'm Nazeem Basha Shaik, an AI Engineer at Cognizant, passionate about building intelligent and scalable AI applications.
+My expertise includes:
 
-My interests and expertise include:
+✅ Generative AI & LLM Applications ✅ Retrieval-Augmented Generation (RAG) ✅ Agentic AI & Multi-Agent Systems ✅ Voice Agents & Conversational AI ✅ FastAPI Microservices ✅ Semantic Search & Vector Databases ✅ Cloud-Native AI Deployments
 
-✅ Generative AI & Large Language Models (LLMs)
-✅ Agentic AI & Multi-Agent Systems
-✅ Retrieval-Augmented Generation (RAG)
-✅ LangChain & LangGraph
-✅ Python & FastAPI
-✅ Vector Databases & Semantic Search
-✅ AWS & Cloud-Based AI Solutions
-✅ LLMOps & AI Application Deployment
+I specialize in building scalable AI platforms using:
 
-I enjoy transforming complex business problems into intelligent AI-powered solutions.
+LangChain & LangGraph
+OpenAI APIs & Hugging Face
+FastAPI & Flask
+FAISS, Pinecone & ChromaDB
+PostgreSQL & OpenSearch
+AWS & GCP Cloud Infrastructure
+Docker, Kubernetes & CI/CD Pipelines
+Currently working on:
 
-🛠️ Technical Skills
-Programming Languages
+🧠 Enterprise AI Business Copilot Systems 🤖 Multi-Agent AI Platforms 📄 Intelligent Document Processing Systems 🔍 Hybrid RAG & Semantic Retrieval Pipelines 🎙 AI Voice Agent Applications ⚡ Scalable AI Infrastructure & LLMOps
 
-!Python !SQL
+🛠 Tech Stack
+🤖 Generative AI & Agentic Systems
+LangChain LangGraph OpenAI HuggingFace RAG LLMOps
 
-Generative AI & Agentic AI
+⚡ Backend & APIs
+Python FastAPI Flask REST API
 
-!OpenAI !LangChain !HuggingFace
+🗄 Vector Databases & Search
+FAISS Pinecone ChromaDB OpenSearch
 
-Backend Development
+☁ Cloud & DevOps
+AWS Docker Kubernetes Jenkins
 
-!FastAPI !Flask
+💼 Professional Experience
+🚀 AI Engineer — Cognizant
+📍 Hyderabad, India | June 2024 – Present
 
-Cloud & DevOps
+Key Contributions
+Designed and developed AI-powered chatbot and RAG applications using LangChain, OpenAI, FastAPI, and vector databases.
 
-!AWS !Docker !Git
+Built semantic search, embedding, and document ingestion pipelines to improve retrieval accuracy and conversational relevance.
 
-🚀 My GitHub Projects
-1. Zepto Data AI Platform
+Developed scalable chatbot APIs and AI microservices deployed on AWS/GCP using Docker and Jenkins CI/CD pipelines.
 
-A project in my GitHub repositories.
+Integrated conversational memory, prompt engineering, and intelligent retrieval workflows for multi-turn interactions.
 
-🔗 View Repository
+Optimized monitoring, logging, and latency management mechanisms for reliable production-grade AI performance.
 
-2. Testing GitHub
+📊 Data Analyst — Cognizant
+📍 Hyderabad, India | May 2022 – June 2024
 
-My GitHub testing and development repository.
+Key Contributions
+Developed ETL pipelines and automated reporting workflows for large-scale operational datasets.
 
-🔗 View Repository
+Performed SQL-based analytics, anomaly detection, and validation checks while maintaining data quality across ingestion pipelines.
 
-📊 GitHub Statistics
+Built dashboards and reporting systems to generate actionable business insights and operational intelligence.
 
-<div align="center">
+Collaborated with AI and engineering teams to integrate machine learning outputs into enterprise analytical workflows.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nazeem-del&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+Automated recurring reporting processes reducing manual operational effort significantly.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazeem-del&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+🚀 Featured Projects
+🧠 Enterprise Agentic AI Business Copilot
+Tech Stack
+Python FastAPI PostgreSQL TimescaleDB AWS EKS LangChain Vector DB
 
-<img src="https://streak-stats.demolab.com?user=Nazeem-del&theme=tokyonight&hide_border=true"/>
+Overview
+Built an Enterprise Agentic AI Business Copilot enabling users to interact with operational and business data using natural language queries.
 
-</div>
+Features
+✅ Natural Language → SQL Generation ✅ Hybrid SQL + Vector Retrieval ✅ Intelligent Query Routing ✅ Semantic Search & Embeddings ✅ Conversational Memory ✅ Self-Healing SQL Pipelines ✅ Tenant-Aware Security ✅ Query Monitoring & Observability
 
-🤝 Connect With Me
+Impact
+Improved contextual retrieval accuracy
+Enabled automated operational analytics
+Delivered scalable enterprise AI infrastructure
+📄 AI-Powered Recruitment Assistant (TalentFitAI)
+Tech Stack
+Python Flask React.js Gemini API AWS Textract Docker
 
-<div align="center">
+Overview
+Developed an AI recruitment automation platform for resume screening, job matching, and candidate evaluation.
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)
+Features
+✅ Resume Parsing ✅ AI Match Scoring ✅ Skill Gap Analysis ✅ OCR-Based Resume Extraction ✅ Recruiter Dashboards ✅ REST APIs & Automation
 
-![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)
+Achievements
+Reduced manual screening effort by 60%
+Improved recruitment workflow automation
+Delivered scalable AI-powered hiring platform
+📈 Current Focus
+Building:
+  - Enterprise Agentic AI Platforms
+  - Hybrid RAG Architectures
+  - AI Voice Agents
+  - Conversational AI Systems
+  - AI Infrastructure & LLMOps
+  - Scalable AI APIs
 
-![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)
+Learning:
+  - Advanced AI Orchestration
+  - AI Observability
+  - Distributed AI Systems
+  - Enterprise AI Security
+🌐 Connect With Me
+LinkedIn
 
-</div>
+GitHub
 
-<div align="center">
+🏆 Strengths
+✨ Generative AI Applications ✨ Enterprise RAG Systems ✨ Agentic AI Workflows ✨ Conversational AI & Voice Agents ✨ FastAPI Microservices ✨ AI Infrastructure & LLMOps ✨ Cloud-Native AI Systems
 
-💡 Building the Future with Generative AI & Agentic AI
-
-Thanks for visiting my GitHub profile!
-
-⭐ Feel free to explore my repositories and connect with me.
-
-</div>## Hi there 👋
-
-<!--
-**Nazeem-del/Nazeem-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Building Scalable Enterprise AI Systems

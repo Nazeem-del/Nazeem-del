@@ -2,7 +2,7 @@ Nazeem Basha Shaik — AI Engineer | Generative AI | Agentic AI | RAG | LLMOps
 🚀 Building Production-Grade AI Systems with Generative AI, Agentic Workflows & Enterprise RAG Pipelines
 
 👨‍💻 About Me
-I am an AI Engineer / Data Scientist with 3+ years of experience building production-grade Generative AI, Agentic AI, RAG, NLP, and ML systems for enterprise applications.
+I am an AI Engineer / Data Scientist with 4+ years of experience building production-grade Generative AI, Agentic AI, RAG, NLP, and ML systems for enterprise applications.
 
 
 My expertise includes:
